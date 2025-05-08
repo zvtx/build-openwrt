@@ -27,8 +27,8 @@ echo "DISTRIB_SOURCECODE='immortalwrt'" >>package/base-files/files/etc/openwrt_r
 svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-zerotier
 svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-passwall
 svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-homeproxy 
-# svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-theme-argon 
- svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-wechatpush
+svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-theme-argon 
+svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-wechatpush
 svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-lucky
 svn c ohttps://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-tailscale
 
