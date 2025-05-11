@@ -2,7 +2,6 @@
 # https://github.com/ophub/amlogic-s9xxx-openwrt
 # Description: Build OpenWrt
 #============================================================================================
-
 name: 通用设备编译固件
 - name: Initialization environment
   env:
